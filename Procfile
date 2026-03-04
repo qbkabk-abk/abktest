@@ -1,1 +1,1 @@
-worker: python utm_bot.py
+worker: python higgsfield_utm_bot.py
