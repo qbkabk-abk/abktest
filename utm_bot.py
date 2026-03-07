@@ -64,6 +64,8 @@ CAMPAIGNS = {
     "kling_3":        {"label": "🎬 Kling 3.0",       "slug": "kling_3"},
     "seedance_2":     {"label": "🌱 Seedance 2.0",    "slug": "seedance_2"},
     "nano_banana_2":  {"label": "🍌 Nano Banana 2",   "slug": "nano_banana_2"},
+    "higgsfield_audio":  {"label": "🎧 Higgsfield Audio ",   "slug": "higgsfield_audio"},
+    "soul_cinematic":  {"label": "👻 Soul Cinematic ",   "slug": "soul_cinematic"},
     "general":        {"label": "🌐 General",          "slug": "general"},
 }
 
