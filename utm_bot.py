@@ -435,7 +435,7 @@ async def campaign_selected(update: Update, context: ContextTypes.DEFAULT_TYPE) 
     campaign_key = query.data.replace("campaign_", "")
     if campaign_key == "custom":
         await query.edit_message_text(
-            "Type your custom campaign name.\nAuto-formatted to snake\\_case.\n\nExample: `soul_launch_feb`",
+            "Type your custom campaign name.\nAuto-formatted to snake\\_case.\n\nExample: `soul_launch`",
             parse_mode="Markdown",
         )
         return ENTER_CUSTOM_CAMPAIGN
