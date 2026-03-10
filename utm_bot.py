@@ -26,7 +26,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 ALLOWED_USERS = {
-    246710857, 146713495, 936971773, 7098425646, 402977320, 6202313386,
+    246710857, 146713495, 936971773, 7098425646, 402977320, 6202313386, 394163013,
 }
 
 def is_allowed(user_id: int) -> bool:
